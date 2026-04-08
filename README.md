@@ -1,6 +1,10 @@
 # leaflet-place-search
+<img width="200" height="auto" alt="image" src="https://github.com/user-attachments/assets/318a4c81-ee9e-40cd-a0b7-2ce71092bf9e" />
 
 A reusable React place search component built for Leaflet maps.
+
+<img width="250" height="auto" alt="image" src="https://github.com/user-attachments/assets/1cbbb665-34aa-40c8-9d79-683fa350bb20" />
+<img width="243" height="auto" alt="image" src="https://github.com/user-attachments/assets/432fecb3-bdc7-43ee-a676-fe3f235e7d96" />
 
 ## Features
 
