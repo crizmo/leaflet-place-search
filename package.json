@@ -32,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/crizmo/leaflet-place-search/issues"
   },
-  "author": "Journy",
+  "author": "Kurizu",
   "license": "MIT",
   "peerDependencies": {
     "react": "^18.0.0",
