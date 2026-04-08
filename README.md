@@ -3,9 +3,10 @@
 
 A reusable React place search component built for Leaflet maps.
 
-<img width="250" height="auto" alt="image" src="https://github.com/user-attachments/assets/1cbbb665-34aa-40c8-9d79-683fa350bb20" />
-<img width="243" height="auto" alt="image" src="https://github.com/user-attachments/assets/432fecb3-bdc7-43ee-a676-fe3f235e7d96" />
-
+<div style="display:flex; gap:16px; flex-wrap:wrap; align-items:center;">
+  <img width="250" height="auto" alt="image" src="https://github.com/user-attachments/assets/1cbbb665-34aa-40c8-9d79-683fa350bb20" />
+  <img width="243" height="auto" alt="image" src="https://github.com/user-attachments/assets/432fecb3-bdc7-43ee-a676-fe3f235e7d96" />
+</div>
 ## Features
 
 - Search places using OpenStreetMap Nominatim
