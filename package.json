@@ -1,6 +1,6 @@
 {
   "name": "leaflet-place-search",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A reusable Leaflet place search component for React apps.",
   "main": "src/index.jsx",
   "module": "src/index.jsx",
@@ -40,7 +40,6 @@
     "leaflet": "^1.9.0"
   },
   "dependencies": {
-    "lodash.debounce": "^4.0.8",
     "lucide-react": "^0.368.0"
   }
 }

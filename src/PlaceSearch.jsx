@@ -1,5 +1,13 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react'
-import debounce from 'lodash.debounce'
+
+function debounce(func, wait = 300) {
+  let timeoutId
+  return function (...args) {
+    const context = this
+    clearTimeout(timeoutId)
+    timeoutId = setTimeout(() => func.apply(context, args), wait)
+  }
+}
 import { Search, X, Loader2, ExternalLink, Info, MapPin, Image, Cloud, Library, Check, Copy, Wind, Thermometer, Droplets } from 'lucide-react'
 
 const defaultStyles = {

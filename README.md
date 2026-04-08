@@ -32,7 +32,7 @@ Install the package into your existing React/Leaflet app:
 npm install leaflet-place-search
 ```
 
-`leaflet-place-search` declares `react`, `react-dom`, and `leaflet` as peer dependencies, so your app should already have those installed. If your project does not yet include them, install them separately:
+`leaflet-place-search` declares `react`, `react-dom`, and `leaflet` as peer dependencies, so your app should already have those installed.
 
 ```bash
 npm install react react-dom leaflet react-leaflet
