@@ -118,7 +118,7 @@ const defaultStyles = {
   activeTab: {
     background: '#0f172a',
     color: '#fff',
-    borderColor: '#0f172a'
+    border: '1px solid #0f172a'
   }
 }
 

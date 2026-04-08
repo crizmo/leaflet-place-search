@@ -1,7 +1,7 @@
 {
   "name": "leaflet-place-search",
-  "version": "0.2.0",
-  "description": "A reusable Leaflet place search component for React apps.",
+  "version": "0.3.0",
+  "description": "A lightweight React component for searching places on Leaflet maps with Nominatim, Wikipedia details, images, and weather support.",
   "main": "src/index.jsx",
   "module": "src/index.jsx",
   "keywords": [
