@@ -26,11 +26,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/<your-username>/leaflet-place-search.git"
+    "url": "https://github.com/crizmo/leaflet-place-search.git"
   },
-  "homepage": "https://github.com/<your-username>/leaflet-place-search#readme",
+  "homepage": "https://github.com/crizmo/leaflet-place-search#readme",
   "bugs": {
-    "url": "https://github.com/<your-username>/leaflet-place-search/issues"
+    "url": "https://github.com/crizmo/leaflet-place-search/issues"
   },
   "author": "Journy",
   "license": "MIT",
