@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Local config
+package-lock.json
+.npmignore
+.gitignore
+
+# Build output
+build/
+dist/
+
+# Local development files
+coverage/
+.vscode/
+.idea/
+.DS_Store
+.env
+
+# Exclude anything not part of the published package
+**/*.test.*

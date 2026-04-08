@@ -1,0 +1,46 @@
+{
+  "name": "leaflet-place-search",
+  "version": "0.1.0",
+  "description": "A reusable Leaflet place search component for React apps.",
+  "main": "src/index.jsx",
+  "module": "src/index.jsx",
+  "keywords": [
+    "leaflet",
+    "place-search",
+    "react",
+    "nominatim",
+    "openstreetmap",
+    "wikipedia",
+    "search",
+    "geocoding",
+    "react-component",
+    "leaflet-plugin",
+    "react-leaflet",
+    "map",
+    "location",
+    "address"
+  ],
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<your-username>/leaflet-place-search.git"
+  },
+  "homepage": "https://github.com/<your-username>/leaflet-place-search#readme",
+  "bugs": {
+    "url": "https://github.com/<your-username>/leaflet-place-search/issues"
+  },
+  "author": "Journy",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "leaflet": "^1.9.0"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "lucide-react": "^0.368.0"
+  }
+}
