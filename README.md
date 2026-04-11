@@ -8,6 +8,11 @@ A reusable React place search component built for Leaflet maps.
   <img width="243" height="auto" alt="image" src="https://github.com/user-attachments/assets/432fecb3-bdc7-43ee-a676-fe3f235e7d96" />
 </div>
 
+<br />
+<a href="https://ko-fi.com/kurizu" target="_blank">
+   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+</a>
+
 ## Features
 
 - Search places using OpenStreetMap Nominatim
